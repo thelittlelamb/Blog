@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-minima"] 
+  path = themes/hexo-theme-minima 
+  url = git@github.com:adisaktijrs/hexo-theme-minima.git
